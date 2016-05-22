@@ -1,4 +1,4 @@
-The JAR file can be executed using java -jar GoEuroTest.jar "CITY_NAME".
+The JAR file can be executed using java -jar GoEuroTest.jar "CITY_NAME" or java -jar GoEuroTest.jar CITY_NAME.
 
 The program saves the CSV file in the location from where the JAR is executed.
 
